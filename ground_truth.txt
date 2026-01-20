@@ -1,6 +1,6 @@
-easy, article_4, The effect of the initial conditions on the evolution of the system is studied.
-easy, article_76, A new scaling law for the turbulent energy spectrum is derived.
-easy, article_34, The sources are distributed isotropically over the sky.
+easy, article_4, the jet energy is dissipated outside the cool core
+easy, article_76, actual sensitivity is in fact determined by the number of beams penetrating the region of potential sensitivity 
+easy, article_34, photons may be produced according to two possible mechanisms : either they take part directly to the hard subprocess ( direct mechanism ) , or they result from the fragmentation of large transverse momentum partons ( fragmentation mechanism ) .
 easy, article_101, Sources and destinations are paired up one-to-one in an arbitrary fashion.
 easy, article_198, The algebra of the constraints is closed for any quantum potential when restricted to the quantum Bohmian trajectories and hence there is no inconsistency in the sense of Dirac, neither for quantum geometrodynamics, nor for quantum field theory.
 medium, article_5, The results presented here are based on a sample of 100 galaxies selected from the SDSS.
