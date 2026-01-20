@@ -1,0 +1,15 @@
+easy, article_58, The network can be either coverage-limited or interference-limited.
+easy, article_106, The global residue assigns to every polynomial the sum over the solution set of Grothendieck residues.
+easy, article_104, The influence of stellar feedback on the star formation process itself is one of the most important issues in this field of astrophysics.
+easy, article_101, The sources and destinations are paired up one-to-one in an arbitrary fashion.
+easy, article_102, The signal received by node i at time m is given by a sum of signals and noise.
+medium, article_104, The complexity of such simulations and the inevitable dependence of the results on the chosen initial conditions demand strict comparisons with observations before meaningful conclusions may be drawn.
+medium, article_101, The model makes certain assumptions on the physical-layer communication technology.
+medium, article_105, The measurement of the transverse and normal polarisation fractions requires the production of polarised top quarks.
+medium, article_58, The channel is random, depending on the location of the users and the phases.
+medium, article_106, The global residue is not a Laurent polynomial and one should not expect a closed formula for it.
+domain, article_105, The density matrix for a polarised top quark decay is determined by eight form factors which are functions of the couplings.
+domain, article_102, The mutual information of the MIMO channel is given by the expectation over channel realizations.
+domain, article_106, The toric Jacobian of the polynomials is a linear function on the space of Laurent polynomials and depends rationally on the coefficients of the system.
+domain, article_104, The code uses a Monte Carlo approach to the transfer of radiation, allowing the treatment of both the direct stellar radiation and the diffuse fields for arbitrary geometries and density distributions.
+domain, article_58, The complex baseband-equivalent channel gain between node i and node k at time m is given by h_ik[m] = sqrt(g) r_ik^{-alpha/2} exp(j theta_ik[m]).
