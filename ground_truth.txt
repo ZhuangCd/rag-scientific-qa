@@ -1,15 +1,15 @@
-easy, article_58, The network can be either coverage-limited or interference-limited.
-easy, article_106, The global residue assigns to every polynomial the sum over the solution set of Grothendieck residues.
-easy, article_104, The influence of stellar feedback on the star formation process itself is one of the most important issues in this field of astrophysics.
-easy, article_101, The sources and destinations are paired up one-to-one in an arbitrary fashion.
-easy, article_102, The signal received by node i at time m is given by a sum of signals and noise.
-medium, article_104, The complexity of such simulations and the inevitable dependence of the results on the chosen initial conditions demand strict comparisons with observations before meaningful conclusions may be drawn.
-medium, article_101, The model makes certain assumptions on the physical-layer communication technology.
-medium, article_105, The measurement of the transverse and normal polarisation fractions requires the production of polarised top quarks.
-medium, article_58, The channel is random, depending on the location of the users and the phases.
-medium, article_106, The global residue is not a Laurent polynomial and one should not expect a closed formula for it.
-domain, article_105, The density matrix for a polarised top quark decay is determined by eight form factors which are functions of the couplings.
-domain, article_102, The mutual information of the MIMO channel is given by the expectation over channel realizations.
-domain, article_106, The toric Jacobian of the polynomials is a linear function on the space of Laurent polynomials and depends rationally on the coefficients of the system.
-domain, article_104, The code uses a Monte Carlo approach to the transfer of radiation, allowing the treatment of both the direct stellar radiation and the diffuse fields for arbitrary geometries and density distributions.
-domain, article_58, The complex baseband-equivalent channel gain between node i and node k at time m is given by h_ik[m] = sqrt(g) r_ik^{-alpha/2} exp(j theta_ik[m]).
+easy, article_4, The effect of the initial conditions on the evolution of the system is studied.
+easy, article_76, A new scaling law for the turbulent energy spectrum is derived.
+easy, article_34, The sources are distributed isotropically over the sky.
+easy, article_101, Sources and destinations are paired up one-to-one in an arbitrary fashion.
+easy, article_198, The algebra of the constraints is closed for any quantum potential when restricted to the quantum Bohmian trajectories and hence there is no inconsistency in the sense of Dirac, neither for quantum geometrodynamics, nor for quantum field theory.
+medium, article_5, The results presented here are based on a sample of 100 galaxies selected from the SDSS.
+medium, article_23, The idea that our universe contains a vast number of light scalar fields is also based on expectations from landscape models, see e.g.  @xcite.
+medium, article_99, The system is particularly interesting because it is the only gamma-ray binary system where the nature of the compact object is known.
+medium, article_154, The idea that local equilibrium patches are embedded in turbulence forms the basis of the present work.
+medium, article_55, We find that the distribution of mass ratios for stellar companions to hot Jupiter systems peaks at small values and therefore differs from that of field star binaries which tend to be uniformly distributed across all mass ratios.
+specific, article_9: as the numerical model for microswimmers , we employed the squirmer model@xcite . in this model , the microswimmers are expressed by rigid particles with a prescribed flow field on their surface .
+specific, article_98: the magnetic moment is one of the fundamental properties of the nucleon .
+specific, article_198: in the present work we show that this is not the case : the algebra of the constraints is closed for any quantum potential when restricted to the quantum bohmian trajectories and hence there is no inconsistency in the sense of dirac , neither for quantum geometrodynamics , nor for quantum field theory .
+specific, article_65: clusters of galaxies trace the largest gravitationally bound mass concentrations in the universe .
+specific, article_31: radiative decays of heavy quarkonia , where a photon replaces one of the three gluons from the strong decay of , for example , the @xmath15 or @xmath0 , are useful in studying color - singlet two - gluon systems .
