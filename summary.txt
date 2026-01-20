@@ -1,0 +1,35 @@
+ground turths
+easy, article_4, the jet energy is dissipated outside the cool core
+easy, article_76, actual sensitivity is in fact determined by the number of beams penetrating the region of potential sensitivity 
+easy, article_34, photons may be produced according to two possible mechanisms : either they take part directly to the hard subprocess ( direct mechanism ) , or they result from the fragmentation of large transverse momentum partons ( fragmentation mechanism ) .
+easy, article_101, Sources and destinations are paired up one-to-one in an arbitrary fashion.
+easy, article_198, The algebra of the constraints is closed for any quantum potential when restricted to the quantum Bohmian trajectories and hence there is no inconsistency in the sense of Dirac, neither for quantum geometrodynamics, nor for quantum field theory.
+medium, article_5, The results presented here are based on a sample of 100 galaxies selected from the SDSS.
+medium, article_23, The idea that our universe contains a vast number of light scalar fields is also based on expectations from landscape models, see e.g.  @xcite.
+medium, article_99, The system is particularly interesting because it is the only gamma-ray binary system where the nature of the compact object is known.
+medium, article_154, The idea that local equilibrium patches are embedded in turbulence forms the basis of the present work.
+medium, article_55, We find that the distribution of mass ratios for stellar companions to hot Jupiter systems peaks at small values and therefore differs from that of field star binaries which tend to be uniformly distributed across all mass ratios.
+specific, article_9: as the numerical model for microswimmers , we employed the squirmer model@xcite . in this model , the microswimmers are expressed by rigid particles with a prescribed flow field on their surface .
+specific, article_98: the magnetic moment is one of the fundamental properties of the nucleon .
+specific, article_198: in the present work we show that this is not the case : the algebra of the constraints is closed for any quantum potential when restricted to the quantum bohmian trajectories and hence there is no inconsistency in the sense of dirac , neither for quantum geometrodynamics , nor for quantum field theory .
+specific, article_65: clusters of galaxies trace the largest gravitationally bound mass concentrations in the universe .
+specific, article_31: radiative decays of heavy quarkonia , where a photon replaces one of the three gluons from the strong decay of , for example , the @xmath15 or @xmath0 , are useful in studying color - singlet two - gluon systems .
+
+questions
+"Where is the jet energy dissipated relative to the cool core in the system discussed?",
+"What determines the actual sensitivity of the observational setup mentioned?",
+"What are the two possible mechanisms by which photons may be produced in the described process?",
+"How are sources and destinations paired in the network model?",
+"What conclusion is reached about the consistency of the constraint algebra for quantum Bohmian trajectories?",
+
+"On what observational sample size and survey are the presented galaxy results based?",
+"Which theoretical framework motivates the idea that the universe contains many light scalar fields?",
+"Why is the mentioned gamma-ray binary system considered particularly interesting?",
+"What key assumption about turbulence underlies the basis of the present work on local equilibrium patches?",
+"How does the mass-ratio distribution of stellar companions to hot Jupiter systems compare to that of field star binaries?",
+
+"Which numerical model is employed for microswimmers, and how are the swimmers represented in this model?",
+"Why is the magnetic moment considered a fundamental property of the nucleon?",
+"Under what restriction does the algebra of constraints remain closed, avoiding inconsistency in quantum geometrodynamics and quantum field theory?",
+"What do clusters of galaxies trace in the context of large-scale cosmic structure?",
+"Why are radiative decays of heavy quarkonia useful for studying color-singlet two-gluon systems?"
