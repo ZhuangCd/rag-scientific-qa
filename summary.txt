@@ -35,6 +35,79 @@ questions
 "Why are radiative decays of heavy quarkonia useful for studying color-singlet two-gluon systems?"
 
 
+
+
+
+---------------
+general ai answers with internet 
+
+The jet energy is deposited outside the cool core, at roughly a few ×100 kpc from the cluster centre.
+
+The actual sensitivity is set by the effective system performance in practice (e.g., digitization losses, telescope gain/declination effects, and other non-idealities that reduce sensitivity below the nominal value).
+
+Either produced directly in the hard subprocess, or produced via parton fragmentation.
+
+They are paired one-to-one in an arbitrary fashion.
+
+It is consistent: the constraint algebra closes (no inconsistency) when restricted to quantum Bohmian trajectories, for any quantum potential.
+
+Based on a first sample of about 55,000 galaxies from the VIPERS survey.
+
+String-theory–motivated frameworks (e.g., higher-dimensional/brane-world compactifications) that generically yield many light moduli/scalar fields.
+
+Because it is (in that discussion) the only gamma-ray binary where the nature of the compact object is known.
+
+That turbulence is locally in equilibrium: production balances dissipation (within each local patch).
+
+It peaks at small mass ratios (low-q companions), unlike field-star binaries which are roughly flat/uniform across mass ratio.
+
+The squirmer model; swimmers are rigid particles with a prescribed surface flow/slip (surface velocity field) that generates self-propulsion.
+
+Because it is an intrinsic dipole property that reveals nucleon internal structure (e.g., the neutron’s moment despite zero net charge) and governs key electromagnetic interactions/probes.
+
+When restricted to quantum Bohmian trajectories (i.e., on that restricted sector), the constraint algebra remains closed.
+
+They trace the large-scale distribution of matter (the cosmic web) in the Universe.
+
+Because they provide access to a color-singlet two-gluon system (photon replaces one gluon), letting one study two-gluon hadronization and glueball/meson formation channels.
+
+
+
+-----------------
+general ai without internet
+
+
+Insufficient information to answer (depends on the specific system/paper; I need the source text).
+
+Determined by the instrument + observing strategy (collecting area/aperture, throughput, exposure time, background, PSF/beam, bandwidth/spectral resolution, system temperature/efficiency, and the detection/analysis method).
+
+Either (1) direct emission from the primary particles (e.g., synchrotron/curvature/bremsstrahlung) or (2) secondary emission after interactions (e.g., inverse-Compton upscattering or hadronic production → π⁰ decay / pair cascades).
+
+Paired one-to-one in an arbitrary fashion.
+
+Insufficient information to answer (paper-specific conclusion; need the quoted result).
+
+Insufficient information to answer (depends on which survey and how many galaxies; need the source text).
+
+Typically motivated by string theory (string compactifications / “axiverse”), which generically yields many light scalar fields (axion-like moduli).
+
+Insufficient information to answer (depends on which gamma-ray binary and what property is highlighted; need the source text).
+
+Insufficient information to answer (paper-specific; likely an assumption of local statistical stationarity/homogeneity and an inertial-range cascade, but I can’t assert without the source).
+
+Insufficient information to answer (this is a specific empirical comparison; need the source text or figure).
+
+Insufficient information to answer (model name and representation details are paper-specific; need the source text).
+
+Because it is a direct probe of the nucleon’s intrinsic spin/charge-current structure (a fundamental EM form-factor property), reflecting internal quark–gluon dynamics beyond just mass and charge.
+
+Insufficient information to answer (the exact “restriction” for closure is formulation-specific; I need the source text).
+
+They trace the underlying large-scale matter distribution (the cosmic web), i.e., peaks of the dark-matter density field.
+
+Because the radiative photon tags a clean, gluon-rich intermediate state (color-singlet two-gluon system), making these decays a good laboratory for studying glueball-like/two-gluon dynamics with reduced hadronic-background ambiguities.
+
+
 ------
 RAG SIMPLE
 QUESTION: Where is the jet energy dissipated relative to the cool core in the system discussed?
