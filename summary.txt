@@ -33,3 +33,223 @@ questions
 "Under what restriction does the algebra of constraints remain closed, avoiding inconsistency in quantum geometrodynamics and quantum field theory?",
 "What do clusters of galaxies trace in the context of large-scale cosmic structure?",
 "Why are radiative decays of heavy quarkonia useful for studying color-singlet two-gluon systems?"
+
+
+------
+RAG SIMPLE
+QUESTION: Where is the jet energy dissipated relative to the cool core in the system discussed?
+
+ANSWER: The jet energy is dissipated outside the cool core, according to the information provided in the text.
+Sources:
+[1]
+[2]
+[3]
+
+SOURCES: article_4, article_4, article_4
+============================================================
+QUESTION: What determines the actual sensitivity of the observational setup mentioned?
+
+ANSWER: The actual sensitivity of the observational setup, as determined by the source material provided, depends on several factors including the type of experiment being conducted, the specific instruments used, and the theoretical models employed to predict the observable signals. The text mentions that "a near detector is also considered in the analysis," suggesting that this additional component could provide valuable information about the system's performance. Furthermore, it notes that "the assumed true values of the oscillation parameters are @xmath129 in the analysis," indicating that these parameters play a crucial role in determining the sensitivity based on their known values. However, without more detailed information about the specific experiment and its underlying physics, it's difficult to pinpoint exactly what determines the sensitivity. Sources [1], [2], and [3] do not directly address the sensitivity issue but instead discuss various aspects such as the use of near detectors and the introduction of systematic uncertainties. Therefore, while there may be multiple determinants, the exact mechanism remains unclear from the given context
+
+SOURCES: article_56, article_166, article_56
+============================================================
+QUESTION: What are the two possible mechanisms by which photons may be produced in the described process?
+
+ANSWER: The two possible mechanisms by which photons may be produced in the described process are through the fragmentation of quarks or gluons, and through the direct production of photons without any initial state radiation.
+Sources:
+[1] Source: article_34
+[2] Source: article_118
+[3] Source: article_34
+
+SOURCES: article_34, article_118, article_34
+============================================================
+QUESTION: How are sources and destinations paired in the network model?
+
+ANSWER: An aggregate throughput is achieved with high probability, according to Theorem 1.
+Sources and destinations are paired in the network model based on the conditions stated in Theorem 1, where "with high probability" indicates that the desired outcome occurs frequently within the network system under consideration. This theorem establishes the possibility of achieving a certain level of performance or efficiency (in this case, an aggregate throughput) across various combinations of source-destination pairings. The theorem's application implies that these pairings are strategically designed to optimize communication or data flow through the network, ensuring that resources are utilized effectively without significant loss or inefficiency. Sources and destinations are thus connected in a way that maximizes their potential impact on each other, facilitating smooth interaction and information exchange throughout the network.
+
+SOURCES: article_103, article_103, article_1
+============================================================
+QUESTION: What conclusion is reached about the consistency of the constraint algebra for quantum Bohmian trajectories?
+
+ANSWER: The conclusion reached about the consistency of the constraint algebra for quantum Bohmian trajectories is that, when restricted to the Bohmian trajectories, the resulting Hamiltonian evolution is consistent only if the corresponding momentum term (@xmath266) is weakly zero due to the Bohm's guidance relations. This implies that the quantum superhamiltonian must be evaluated within the framework of Bohmian mechanics to ensure consistency across all possible trajectories. The key point here is that the algebraic closure of the constraints is crucial for maintaining consistency in the quantum superhamiltonian formulation.
+
+SOURCES: article_198, article_198, article_198
+============================================================
+QUESTION: On what observational sample size and survey are the presented galaxy results based?
+
+ANSWER: The presented galaxy results are based on an ACS (Advanced Camera for Surveys) survey.
+Sources:
+[1] Source: article_173
+[2] Source: article_122
+[3] Source: article_173
+
+SOURCES: article_173, article_122, article_173
+============================================================
+QUESTION: Which theoretical framework motivates the idea that the universe contains many light scalar fields?
+
+ANSWER: Theoretical frameworks motivated by landscape models suggest that our universe contains a vast number of light scalar fields, which are expected to arise from the presence of multiple scalar fields in theories of high-energy physics beyond the standard model. This concept is supported by the idea that the universe may contain a multitude of scalar fields due to the existence of multiple scalar fields within the landscape of possible universes. Landscape models provide a way to understand how different regions of the parameter space of the effective field theory might correspond to distinct physical realities, including those that could lead to the observed properties of the universe. Sources 1 and 2 support this explanation.
+
+SOURCES: article_23, article_23, article_23
+============================================================
+QUESTION: Why is the mentioned gamma-ray binary system considered particularly interesting?
+
+ANSWER: The mentioned gamma-ray binary system, PSR B1259-63/LS 2883, is considered particularly interesting due to its unique property of having the nature of the compact object known. This makes it one of the few systems where the identity of the neutron star or black hole can be determined through observational means. Additionally, the system exhibits significant gamma-ray emission patterns that provide insights into the physics occurring within the binary environment, such as the interaction between the pulsar's magnetic field and the stellar wind, leading to the formation of a stand-off shock front. The presence of an associated circumstellar disc further complicates the understanding of the system, as the disc contributes significantly to the observed gamma-ray emissions, especially at periastron when the disc is most illuminated by the central object. These factors collectively make the system a valuable subject for astrophysical research, offering opportunities to study various aspects of relativistic phenomena and accretion processes in extreme environments. [1
+
+SOURCES: article_99, article_99, article_99
+============================================================
+QUESTION: What key assumption about turbulence underlies the basis of the present work on local equilibrium patches?
+
+ANSWER: The key assumption underlying the basis of the present work on local equilibrium patches is that local equilibrium patches are embedded within turbulent systems, forming the foundation of the research. This perspective suggests that understanding the relationship between local equilibrium structures and turbulent dynamics could provide insights into broader aspects of magnetohydrodynamics (MHD) and its applications in astrophysical contexts like solar wind turbulence. The study aims to explore how local Alfvénic states correlate with Taylor equilibria, aiming to uncover correlations and relationships that might not be apparent at larger scales or over longer timescales. Sources [1], [2], and [3] support this interpretation, highlighting the focus on investigating the interplay between local equilibrium structures and turbulent dynamics.
+
+SOURCES: article_154, article_154, article_154
+============================================================
+QUESTION: How does the mass-ratio distribution of stellar companions to hot Jupiter systems compare to that of field star binaries?
+
+ANSWER: The mass-ratio distribution for binaries hosting hot Jupiters peaks at small mass ratios, unlike the relatively uniform distribution of mass ratios observed for field star binaries. Although this may in part reflect a bias against equal mass binaries in photometric transit surveys, it is also plausible that higher mass companions might actively suppress planet formation by disrupting the protoplanetary disk. As discussed in section [sec: moregiants], the more subtle effects of a low-mass companion on the disk structure could instead aid in planet formation by creating regions of locally enhanced density. Alternatively, protoplanetary disk masses in binary star systems may be higher than those of their isolated counterparts, resulting in globally enhanced disk densities.
+Sources:
+[1]
+[2]
+[3]
+
+SOURCES: article_55, article_55, article_55
+============================================================
+QUESTION: Which numerical model is employed for microswimmers, and how are the swimmers represented in this model?
+
+ANSWER: The numerical model for microswimmers is the squirmer model, which employs rigid particles with a prescribed flow field on their surface. The squirmer model is expressed in the form of an infinite expansion, with components in the tangential, radial, and azimuthal directions. However, utilizing only the first two modes of the tangential field, following equation ([eq: sq_2]), already enables the modeling of different types of swimmers, including pushers, pullers, and neutral swimmers. In this model, the prescribed flow field is assumed to be an axisymmetric pure tangential one and the particle is rigid and spherical. This model captures the features of artificial microswimmers such as Janus particles, although it was originally intended to describe ciliary propulsion of microorganisms. To solve the combined fluid-solid problem, the smoothed profile method is employed. Radial, and azimuthal directions are utilized, but only the first two modes of the tangential field are considered. The coefficient of
+
+SOURCES: article_9, article_9, article_9
+============================================================
+QUESTION: Why is the magnetic moment considered a fundamental property of the nucleon?
+
+ANSWER: The magnetic moment of the nucleon is considered a fundamental property because it plays a crucial role in understanding the behavior of particles within the nucleus and their interactions with external fields such as electric or magnetic fields. The magnetic moment arises due to the intrinsic properties of the nucleons themselves, specifically their charge and spin, which are inherent characteristics of the subatomic particles making up the nucleon. This intrinsic nature makes the magnetic moment a fundamental aspect of particle physics, essential for describing how nucleons interact with other particles and contribute to the overall dynamics of atomic nuclei and larger systems. Sources 1 and 2 provide detailed explanations of how the magnetic moment is calculated and understood within the framework of quantum chromodynamics (QCD), emphasizing its importance in both theoretical models and experimental measurements.
+
+SOURCES: article_98, article_98, article_98
+============================================================
+QUESTION: Under what restriction does the algebra of constraints remain closed, avoiding inconsistency in quantum geometrodynamics and quantum field theory?
+
+ANSWER: The algebra of constraints remains closed under the Dirac-Teitelboim algebra, ensuring consistency in both quantum geometrodynamics and quantum field theory.
+Sources:
+[1]
+[2]
+
+SOURCES: article_198, article_198, article_198
+============================================================
+QUESTION: What do clusters of galaxies trace in the context of large-scale cosmic structure?
+
+ANSWER: Clusters of galaxies trace the largest gravitationally bound mass concentrations in the universe.
+This information is sourced from [1]. The text states, "clusters of galaxies trace the largest gravitationally bound mass concentrations in the universe." This directly answers the question asked.
+
+SOURCES: article_120, article_65, article_65
+============================================================
+QUESTION: Why are radiative decays of heavy quarkonia useful for studying color-singlet two-gluon systems?
+
+ANSWER: Radiative decays of heavy quarkonia are useful for studying color-singlet two-gluon systems because they allow researchers to analyze the behavior of two gluons, which are fundamental particles involved in the strong interaction between quarks. By observing these decays, scientists can gain insights into how gluons combine to form mesons and other bound states, which are crucial for understanding the dynamics of QCD (Quantum Chromodynamics), the theory governing the strong force between quarks. This research helps in refining theoretical models like non-relativistic QCD and soft-collinear effective theory, as well as improving calculations involving gluon distribution amplitudes and perturbative QCD. Additionally, it provides valuable constraints on the production of glueballs, which are hypothetical particles made up entirely of gluons. The use of such decays also allows for precise measurement of branching ratios and helicity production ratios, contributing significantly to the field's understanding of high-energy physics phenomena. Sources [1]
+
+SOURCES: article_31, article_31, article_31
+============================================================
+
+------
+RAG ADVANCED 
+QUESTION: Where is the jet energy dissipated relative to the cool core in the system discussed?
+
+ANSWER: The jet energy is primarily dissipated outside the cool core region, with approximately 35% being lost through shock waves and turbulence, and the remaining 65% being transported to regions beyond 33 kpc. Notably, some of the jet energy is also dissipated outside the cool core, indicating a significant redistribution of energy across the cluster. This suggests that the jet's impact extends well beyond the immediate vicinity of the cool core, highlighting the complex dynamics involved in AGN feedback mechanisms. ["source_4", "source_5"]
+
+SOURCES: article_63, article_141, article_4, article_93, article_36
+================================================================================
+QUESTION: What determines the actual sensitivity of the observational setup mentioned?
+
+ANSWER: The actual sensitivity of the observational setup mentioned depends on multiple factors including the quality of the instruments used, the accuracy of the calibration processes, and the specific conditions under which observations are conducted. Sources [1], [2], and [3] discuss how the performance of instruments like WFPC2 and ACS (Advanced Camera for Surveys) is characterized and calibrated, highlighting the importance of detailed comparisons across different observation scenarios. These studies emphasize the need for consistent methods and thorough testing to ensure reliable measurement outcomes. Therefore, while the exact parameters determining sensitivity may vary depending on the specific application or environment, the general principles outlined in these sources underscore the critical role of precision instrumentation and rigorous calibration protocols in achieving high-quality astronomical observations. ["article_1"], ["article_2"], ["article_3"]
+
+SOURCES: article_63, article_46, article_141, article_73, article_93, article_161, article_36
+================================================================================
+QUESTION: What are the two possible mechanisms by which photons may be produced in the described process?
+
+ANSWER: The two possible mechanisms by which photons may be produced in the described process are:
+
+1. Bremsstrahlung emission of a photon, which occurs through the interaction of a photon with a hard quark in a scattering process where the quark is backward scattered in the plasma via soft quark exchange. This mechanism appears at the two-loop level in the effective theory and contributes at the same order as the processes in the one-loop effective theory.
+
+2. Processes where the photon is radiated off fast quarks in scattering processes mediated by a gluon exchange, which is referred to as bremsstrahlung emission of a photon in the context of the semi-classical approximation. These processes favor the semi-classical approximation and contribute at the same order in the effective theory. [Source: article_118 (chunk 3)]
+
+SOURCES: article_118, article_63, article_141, article_196, article_93, article_36
+================================================================================
+QUESTION: How are sources and destinations paired in the network model?
+
+ANSWER: The sources and destinations in the network model are paired based on the connectivity of the edges within the graph. Specifically, each node represents a destination or source location, and the edges represent the pathways connecting these locations. In the context of transportation networks, such as airlines, the goal is to ensure that there are multiple routes available between any pair of distant locations, which enhances accessibility and reduces the need for long-distance flights. This approach aims to balance the need for efficient travel with the requirement for robustness against potential disruptions like single-point failures. The sources and destinations are thus interconnected through various edges, forming a complex network structure that reflects the practical challenges and benefits of designing efficient yet resilient transportation systems. ["article_1"]
+
+Sources and destinations are also paired in the context of edge overlap analysis. High edge overlap in a network indicates that many pairs of nodes are directly connected by several edges, leading to reduced dispersiveness of the walk and increased heterogeneity in the equilibrium occupation probability distribution. This configuration suggests that the network is designed to maximize robustness while maintaining a certain level of diffusivity. Edge overlap is crucial in understanding how different layers of a transportation system interact and contribute to its overall performance. ["article_1"]
+
+SOURCES: article_47, article_103, article_63, article_20, article_1, article_171, article_93, article_36
+================================================================================
+QUESTION: What conclusion is reached about the consistency of the constraint algebra for quantum Bohmian trajectories?
+
+ANSWER: The provided sources do not contain sufficient information to answer this question. [source: article_198 (chunk 14)]
+
+SOURCES: article_47, article_198, article_63, article_20, article_171, article_93, article_36
+================================================================================
+QUESTION: On what observational sample size and survey are the presented galaxy results based?
+
+ANSWER: The presented galaxy results are based on observations from the Sloan Digital Sky Survey (SDSS) survey. Specifically, the authors compare their sample to the SDSS sample, using a visual (or in case of the SDSS, trained on visual) morphological classification. This comparison allows them to analyze the properties of galaxies across various scales and environments, including those in clusters and groups. Additionally, the study involves fitting data to theoretical models and performing statistical tests to validate the findings against existing literature such as Valentinuzzi et al.'s work on the overall mass-size relation. These methods collectively provide a comprehensive understanding of galaxy morphology and evolution within different cosmic structures. ["source_1"] ["source_2"] ["source_3"]
+
+SOURCES: article_63, article_141, article_46, article_173, article_93, article_36
+================================================================================
+QUESTION: Which theoretical framework motivates the idea that the universe contains many light scalar fields?
+
+ANSWER: The idea that the universe contains many light scalar fields is motivated by landscape models, as discussed in reference [1]. Landscape models propose that there exist multiple vacua or stable configurations of the universe, each with different values of certain parameters. These diverse vacua suggest that the universe may have evolved through a series of transitions between them, driven by the interactions among the scalar fields. This concept provides a natural explanation for the observed fine-tuning of fundamental constants and the existence of multiple forms of matter and energy within the universe. Additionally, the work in references [2] and [3] further supports this idea by exploring scenarios involving multiple scalar fields interacting in complex ways, such as in assisted inflation and multi-field dynamics, which collectively contribute to the rich structure of the universe. Therefore, the motivation for considering many light scalar fields comes from the broader landscape paradigm in theoretical physics. ["article_2"], ["article_3"]
+
+SOURCES: article_47, article_63, article_20, article_171, article_23, article_2, article_93, article_36
+================================================================================
+QUESTION: Why is the mentioned gamma-ray binary system considered particularly interesting?
+
+ANSWER: The gamma-ray binary system PSR B1259-63/LS 2883 is considered particularly interesting due to its unique feature of having the nature of the compact object known. This makes it one of the few systems where the identity of the neutron star or black hole can be determined through observational means. Additionally, the presence of both pulsed and non-pulsed emissions, as well as the detection of infrared excesses, adds complexity to the system's behavior, making it a subject of ongoing investigation into the physics of such binaries. Furthermore, the variability of the emitted radiation over different wavelengths, including radio, X-rays, and TeV gamma rays, suggests dynamic processes occurring within the system, potentially involving interactions between the pulsar, stellar winds, and surrounding matter. These factors collectively make the system a valuable target for studying fundamental astrophysical phenomena. ["source_1", "source_2"]
+
+SOURCES: article_63, article_141, article_33, article_99, article_93, article_36
+================================================================================
+QUESTION: What key assumption about turbulence underlies the basis of the present work on local equilibrium patches?
+
+ANSWER: The key assumption underlying the basis of the present work on local equilibrium patches is that local equilibrium patches are embedded in turbulence. This concept is rooted in the understanding that turbulence can lead to the formation of stable, localized structures or patches within the broader context of chaotic dynamics. These equilibrium patches are thought to arise through the process of relaxation, where the system tends towards a state of balance despite ongoing random fluctuations. This approach contrasts with traditional models of turbulence, which often focus on the large-scale behavior of fluids without considering the role of smaller-scale structures. By recognizing the importance of these local equilibrium patches, researchers aim to better understand how turbulence affects the overall structure and dynamics of fluid flows. ["source: article_154(chunk 1)"]
+
+This perspective allows for a more comprehensive view of turbulence, acknowledging its multifaceted nature and the complex interplay between larger-scale motions and smaller-scale structures. It also opens up new avenues for studying phenomena like alignment effects, which are crucial for understanding various physical processes across different scales. ["source: article_154(chunk 8)"]
+
+SOURCES: article_91, article_63, article_154, article_141, article_93, article_36
+================================================================================
+QUESTION: How does the mass-ratio distribution of stellar companions to hot Jupiter systems compare to that of field star binaries?
+
+ANSWER: To compare the mass-ratio distribution of stellar companions to hot Jupiter systems with that of field star binaries, we examine Figure [fig: eta_mratio], which plots the survey's observed companion fraction, the survey's completeness-corrected companion fraction, and the completeness-corrected field star companion fraction as a function of companion star mass ratio. The data points show that the distribution of mass ratios for the stellar companions detected in our survey is concentrated towards smaller values, indicating a lower prevalence of high-mass companions relative to field stars. This suggests that the mass-ratio distribution of stellar companions to hot Jupiter systems may be more consistent with the expected behavior of field star binaries rather than being significantly different. However, further analysis would be needed to draw definitive conclusions about the specific differences or similarities between the two populations. ["article_55", chunk 19]
+
+This comparison indicates that while there might be some overlap in terms of overall trends, the specific characteristics of the mass-ratio distributions suggest that the stellar companions to hot Jupiters could potentially follow a pattern more aligned with field star binaries. Further detailed examination of the data and additional observations would be necessary to make a more comprehensive assessment. ["article_55", chunk 19
+
+SOURCES: article_47, article_63, article_20, article_55, article_171, article_93, article_36
+================================================================================
+QUESTION: Which numerical model is employed for microswimmers, and how are the swimmers represented in this model?
+
+ANSWER: The numerical model employed for microswimmers is based on the Smoothed Particle Hydrodynamics (SPH) scheme. In this model, the walls of the confined space are represented by assemblies of particles that are pinned and cannot move or rotate. These particles are placed uniformly throughout the computational domain and have the same diameter as the swimmer particles. This approach ensures the creation of a stick boundary at the wall surfaces, thereby guaranteeing the stability of the simulation. By considering various shapes and sizes of pipes, the number of wall particles needed increases accordingly. The dynamics of these microswimmers under confinement are studied through three-dimensional direct numerical simulations with fully resolved hydrodynamics. The results indicate that while the volume fraction dependency may differ qualitatively, the overall behavior does not significantly change depending on the geometry of the confinement. An order-disorder phase transition occurs for certain types of swimmers when their size approaches the scale of the swimmers themselves. This phenomenon is independent of the specific geometry of the confinement environment. Self-propelled particles (SPPs), which include microswimmers, are increasingly being recognized as representatives of out-of-equilibrium systems due to their unique properties and behaviors. For further reading, refer to articles [4] and [5
+
+SOURCES: article_63, article_9, article_141, article_93, article_36
+================================================================================
+QUESTION: Why is the magnetic moment considered a fundamental property of the nucleon?
+
+ANSWER: The magnetic moment is considered a fundamental property of the nucleon because it plays a crucial role in understanding its behavior within the framework of quantum chromodynamics (QCD). As stated in the given sources, the magnetic moment is one of the fundamental properties of the nucleon, and experimental measurements have been performed to a very high precision. This measurement provides valuable insights into the internal structure of the nucleon and helps validate theoretical models that aim to explain its properties. Additionally, the magnetic moment serves as a benchmark for testing various theoretical approaches and computational methods used in QCD studies. Therefore, its determination is essential for advancing our understanding of hadronic physics and the underlying principles governing the strong interaction between quarks. ["source_1", "source_2"]
+
+SOURCES: article_63, article_141, article_98, article_93, article_36
+================================================================================
+QUESTION: Under what restriction does the algebra of constraints remain closed, avoiding inconsistency in quantum geometrodynamics and quantum field theory?
+
+ANSWER: The algebra of constraints remains closed under the condition that the quantum potential does not break Dirac-Titelboim's algebra. This implies that the constraints are conserved in time, preventing inconsistencies in Hamiltonian evolution of spacelike geometries. In quantum field theory, this scenario can occur if the quantum potential modifies the background spacetime, leading to a breakdown of Lorentz invariance. Specifically, the ground state of the free scalar field introduces a quantum potential that violates Dirac-Titelboim's algebra, thus breaking Lorentz invariance. This phenomenon occurs within the context of the BDB (Bohm-Dewitt) interpretation of quantum cosmology, where the choice of quantum potential determines the quantum evolution of the universe. Therefore, the key restriction ensuring the closure of the algebra of constraints is the absence of a quantum potential that disrupts Dirac-Titelboim's algebraic structure. ["article_198", chunk 15]
+
+This restriction ensures that the mathematical framework of quantum geometrodynamics and quantum field theory remains consistent, maintaining the principles of Lorentz invariance and the conservation of physical laws across different scales and dimensions. ["article_198", chunk 15],
+
+SOURCES: article_198, article_63, article_141, article_93, article_36
+================================================================================
+QUESTION: What do clusters of galaxies trace in the context of large-scale cosmic structure?
+
+ANSWER: Clusters of galaxies trace the large-scale cosmic structure through their clustering properties. The study mentioned uses photometric redshifts and ACS GTO spectroscopic follow-up observations to select a cluster galaxy sample that remains unchanged compared to the group sample. This selection process allows for the analysis of the clustering behavior within the selected clusters and groups. The authors classify galaxies into three types: early-type (ETGs), late-type (SA, SB, SC), and irregular/undefined categories based on visual classifications derived from ACS @xmath38 images. These classifications help in understanding the morphological characteristics of galaxies within the selected samples. The work presented here involves measuring the spatial correlation lengths of galaxy clusters using data from the Las Campanas Distant Cluster Survey (LCDCS) and deriving them via the cosmological Limber equation. Despite the limitations due to statistical uncertainties, the measured correlation lengths provide insights into the large-scale distribution of matter in the universe. The findings suggest that clusters play a crucial role in tracing the large-scale cosmic structure, contributing significantly to our understanding of the distribution of dark matter and the evolution of the universe. [Sources: article_173, article_120]
+
+SOURCES: article_63, article_141, article_120, article_173, article_93, article_36
+================================================================================
+QUESTION: Why are radiative decays of heavy quarkonia useful for studying color-singlet two-gluon systems?
+
+ANSWER: Radiative decays of heavy quarkonia are useful for studying color-singlet two-gluon systems because they allow researchers to observe the interaction between a photon and two gluons within the same system. This interaction provides insights into the properties of these systems, particularly in terms of their structure and dynamics. The presence of a photon in the decay process changes the nature of the interaction compared to direct gluon decays, offering unique opportunities to probe the underlying physics of color-singlet configurations. Additionally, the suppression of rates due to the quark-photon coupling allows for more controlled studies of these processes, making them valuable tools in understanding the behavior of color-singlet two-gluon systems. ["source_1", "source_2"]
+
+SOURCES: article_63, article_87, article_141, article_93, article_31, article_36
+================================================================================
